@@ -1,0 +1,63 @@
+1. Tema escuro/claro com toggle
+2. Filtros de transações por:
+	Período (dia, semana, mês, ano)
+	Categoria
+	Valor (maior/menor que)
+	Ordenação de transações por:
+	Data
+	Valor
+	Categoria
+4. Editar transações existentes
+5. Excluir transações
+7. Anexar comprovantes/recibos às transações
+8. Tags personalizadas para transações
+9. Sistema de metas financeiras
+10. Categorias personalizadas (criar/editar/excluir)
+
+
+
+
+
+
+futuro:
+
+Segurança e Conta
+Recuperação de senha
+Autenticação em duas etapas
+Perfil do usuário com preferências
+Backup automático dos dados
+Histórico de login/atividades
+Compartilhamento de contas (família)
+Relatórios e Análises
+Relatórios mensais por email
+Previsão de gastos baseada no histórico
+23. Comparação de gastos entre períodos
+Alertas de gastos excessivos
+Dashboard com métricas personalizáveis
+Análise de tendências de gastos
+Integração e Dados
+Importação de extratos bancários
+Múltiplas contas/cartões
+Conversão de moedas
+API para integração com outros sistemas
+Backup em nuvem (Google Drive/Dropbox)
+Sincronização entre dispositivos
+Melhorias Técnicas
+Cache de dados no frontend
+Compressão de dados
+Testes automatizados
+36. Sistema de logs mais detalhado
+Documentação da API
+Otimização de performance
+Recursos Educacionais
+39. Dicas de economia
+Calculadoras financeiras
+Blog com conteúdo educativo
+Tutorial interativo para novos usuários
+FAQ e guia de uso
+Mobile e Responsividade
+44. Versão PWA do aplicativo
+45. Layout otimizado para mobile
+Notificações push
+Modo offline
+Scanner de QR Code/código de barras para notas fiscais
