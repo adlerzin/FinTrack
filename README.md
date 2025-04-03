@@ -43,15 +43,3 @@ FinTrack é uma aplicação web para gestão financeira pessoal desenvolvida com
 - Servidor HTTP nativo (http.server)
 - SQLite3 para banco de dados
 
-## 📦 Estrutura do Projeto 
-finance_app/
-├── server.py # Servidor HTTP e rotas
-├── database.py # Conexão e manipulação do banco de dados
-├── models.py # Classes e lógica de negócios
-├── static/
-│ ├── index.html # Página de login/registro
-│ ├── dashboard.html # Dashboard principal
-│ ├── style.css # Estilos da aplicação
-│ └── main.js # Lógica frontend
-└── data/
-└── finance.db # Banco de dados SQLite
